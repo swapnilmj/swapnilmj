@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Mumbai, India.
+#### I'm a Full-Stack Developer working in Mumbai, India. 
+### I am currently open to new job opportunities
 
 <!--
 ##### NOW
@@ -13,9 +14,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Forcepoint**
-- ⚙️ I use daily: `.sql`, `.py`, `.js`, `.html`, `.css`, `excalidraw`
-- 🌱 Learning all about **Distributed Systems**
+<!-- - 🏢 I'm currently working at **Forcepoint** -->
+- ⚙️ I use daily: `.sql`, `.py`, `.js`, `.html`, `.css`, `excalidraw`, `git`
+- 🌱 Learning all about **Distributed Systems**, `go lang` and `reactjs`.
 - Built [Web-vqd](https://github.com/swapnilmj/web-vqd/) [(demo)](https://swapnilmj.github.io/web-vqd/)
 
 ##### Reach me: 

@@ -24,7 +24,8 @@
 <!-- - 🏢 I'm currently working at **Forcepoint** -->
 - ⚙️ I use daily: `.sql`, `.py`, `.js`, `.html`, `.css`, `excalidraw`, `git`
 - 🌱 Learning all about **Distributed Systems**, `go lang` and `reactjs`.
-- Built the [Visual SQL Query Designer](https://github.com/swapnilmj/web-vqd/) dev utility [(demo)](https://swapnilmj.github.io/web-vqd/)
+- Built the [Visual SQL Query Designer](https://github.com/swapnilmj/web-vqd/) developer utility [(demo)](https://swapnilmj.github.io/web-vqd/)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/swapnilmj/web-vqd)
 
 
 <!-- - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking** 
